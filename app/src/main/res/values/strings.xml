@@ -8,4 +8,23 @@
     <string name="btn_opencfg_label">Config</string>
     <string name="menu_set_label">Settings</string>
     <string name="btn_save_label">Save Config</string>
+
+    <string name="team_name1">Team A</string>
+    <string name="team_name2">Team B</string>
+    <string name="zero">0</string>
+    <string name="buttonname_points3">+3 POINTS</string>
+    <string name="buttonname_points2">+2 POINTS</string>
+    <string name="buttonname_point1">FREE THROW</string>
+    <string name="buttonname_reset">RESET</string>
+
+    <string name="bmi_title">BMI 计算器</string>
+    <string name="bmi_hint_height">请输入身高（米）</string>
+    <string name="bmi_hint_weight">请输入体重（千克）</string>
+    <string name="bmi_text_height">身高</string>
+    <string name="bmi_text_weight">体重</string>
+    <string name="bmi_button_submit">计算</string>
+    <string name="bmi_output">你的BMI指数是：</string>
+    <string name="bmi_health">，建议</string>
+
+
 </resources>
